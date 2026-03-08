@@ -31,7 +31,7 @@ ABU graduate combining Human Kinetics expertise with data analytics to solve com
 [LinkedIn](https://www.linkedin.com/in/robert-analytics) | [X (Twitter)](https://x.com/rrobertemanuel)
 
 ### 📈 GitHub Stats
-![Mazzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Analytics&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Robert-Analytics's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-Analytics&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 *Building in public. Documenting the transition from human performance to data performance.*
