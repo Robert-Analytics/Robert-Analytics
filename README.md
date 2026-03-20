@@ -6,6 +6,9 @@ ABU graduate combining Human Kinetics expertise with data analytics to solve com
 
 > **Bio:** I am a results-driven professional transitioning from Human Performance to Data Performance. With a background in Human Kinetics and 3+ years of experience as an Independent Financial Trader, I leverage quantitative analysis and behavioral insights to navigate the complexities of financial markets. My current focus is building data-driven solutions for the Nigerian Fintech landscape.
 
+## 🎓 Certifications
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Certificate-blue?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/QZJQDOM70X3S)
+
 ### 🎯 What I'm Working On
 - **Google Data Analytics Professional Certificate** (Current focus)
 - **Naira Volatility Dashboard** — Power BI analysis of USD/NGN historical trends.
