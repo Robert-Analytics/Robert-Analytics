@@ -1,6 +1,6 @@
 # Hi, I'm Robert-Analytics 👋
 
-## Data Analyst in Training | Fintech & Human Performance
+## Data Analyst in Training | Fintech & Risk Analytics
 
 ABU graduate combining Human Kinetics expertise with data analytics to solve complex problems in financial markets and risk management.
 
